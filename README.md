@@ -14,11 +14,6 @@ The platform allows developers to customize chatbots as per their business requi
 ✅ Integrations: It provides easy integration with existing databases, CRM systems, and other business applications. This is particularly beneficial if there are pre-existing workflows in n8n that can be triggered from Botpress
 ```
 
-🔌 Supported Event Sources
-```
-
-```
-
 🚀 
 ```
 terraform init
