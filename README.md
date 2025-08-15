@@ -2,7 +2,7 @@
 
 
 
-## Chatbots | Kubernetes ☸️
+## AI Agent Platform | Kubernetes ☸️
 Botpress is a leading chatbot development platform suitable for making tailored open-source chatbots for free. These bots are able to deal with various functions such as customer support, sales, and marketing.
 The platform allows developers to customize chatbots as per their business requirements. Botpress leverages natural language processing (NLP) to understand and interpret human language, providing a more human-like interaction. It comes with an intuitive visual flow builder that enables users to design conversation flows, manage content, and implement user interfaces.
 
